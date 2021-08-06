@@ -68,7 +68,7 @@
     <link href="http://example.com/2021/03/10/%E7%BD%91%E7%AB%99%E5%BB%BA%E8%AE%BE%E6%97%A5%E5%BF%97/"/>
     <id>http://example.com/2021/03/10/%E7%BD%91%E7%AB%99%E5%BB%BA%E8%AE%BE%E6%97%A5%E5%BF%97/</id>
     <published>2021-03-09T16:00:00.000Z</published>
-    <updated>2021-08-06T17:28:53.083Z</updated>
+    <updated>2021-08-06T17:49:29.138Z</updated>
     
     
       
@@ -81,7 +81,7 @@
     
     
     
-    <category term="罐头集装箱&#39;" scheme="http://example.com/categories/%E7%BD%90%E5%A4%B4%E9%9B%86%E8%A3%85%E7%AE%B1/"/>
+    <category term="罐头集装箱" scheme="http://example.com/categories/%E7%BD%90%E5%A4%B4%E9%9B%86%E8%A3%85%E7%AE%B1/"/>
     
     
     <category term="随笔" scheme="http://example.com/tags/%E9%9A%8F%E7%AC%94/"/>
@@ -144,6 +144,27 @@
     
     
     <category term="厨房" scheme="http://example.com/tags/%E5%8E%A8%E6%88%BF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>玩过极乐迪斯科后的一些小感想</title>
+    <link href="http://example.com/2020/12/23/%E7%8E%A9%E8%BF%87%E6%9E%81%E4%B9%90%E8%BF%AA%E6%96%AF%E7%A7%91%E5%90%8E%E7%9A%84%E4%B8%80%E4%BA%9B%E5%B0%8F%E6%84%9F%E6%83%B3/"/>
+    <id>http://example.com/2020/12/23/%E7%8E%A9%E8%BF%87%E6%9E%81%E4%B9%90%E8%BF%AA%E6%96%AF%E7%A7%91%E5%90%8E%E7%9A%84%E4%B8%80%E4%BA%9B%E5%B0%8F%E6%84%9F%E6%83%B3/</id>
+    <published>2020-12-22T16:00:00.000Z</published>
+    <updated>2021-08-06T17:50:03.858Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;还差真探就全成就了，但三周目的时候我明明开了硬核模式结局却没解锁这个成就，后来查了下可能是需要在创角色前就开硬核模式，我在进入游戏后开就不算全程硬核😅打算在更新最终剪辑版后再冲冲这个成就。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="现视研" scheme="http://example.com/categories/%E7%8E%B0%E8%A7%86%E7%A0%94/"/>
+    
+    
+    <category term="随笔" scheme="http://example.com/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+    <category term="游戏" scheme="http://example.com/tags/%E6%B8%B8%E6%88%8F/"/>
     
   </entry>
   
